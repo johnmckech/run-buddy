@@ -55,3 +55,9 @@ footer div {
 footer a {
   color: #024e76;
 }
+/*Hero Style Start */
+section.hero {
+  background-image: url("https://static.fullstack-bootcamp.com/module-1/hero-bg.jpg");
+  height: 600px;
+}
+/*hero Style end */
