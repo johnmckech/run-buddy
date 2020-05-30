@@ -56,8 +56,22 @@ footer a {
   color: #024e76;
 }
 /*Hero Style Start */
-section.hero {
+.hero {
   background-image: url("https://static.fullstack-bootcamp.com/module-1/hero-bg.jpg");
   height: 600px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
 }
 /*hero Style end */
+/*Hero Form Start */
+.hero-form {
+  background-color: #fce138;
+  padding: 20px;
+  width: 500px;
+  color: #024e76;
+  border-style: solid 3px #024e76;
+  position: absolute;
+  bottom: 120px;
+  right: 140px;
+}
