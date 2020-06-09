@@ -194,7 +194,7 @@ footer a {
   align-items: center;
   justify-content: space-between;
 }
-.step:last-child {
+.step:not(:last-child) {
   border-bottom: 1px solid #39a6b2;
 }
 
